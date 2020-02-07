@@ -21,3 +21,8 @@ Sources:
 - https://stackoverflow.com/questions/5607551/how-to-urlencode-a-querystring-in-python, bgporter
 - https://docs.python.org/3/library/urllib.parse.html
 - https://docs.python.org/3/library/json.html
+
+Collaborators:
+
+- krli - Discussed urllib.parse
+- jblazusi - Discussed urllib.parse
